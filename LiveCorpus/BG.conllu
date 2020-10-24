@@ -1046,7 +1046,7 @@
 1043	/	/	PUNCT	_	_	_	_	_	words@dez1977f#@dez1977f#240.359#240.584
 1044	Иван	Иван	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@dez1977f#@dez1977f#240.584#240.809
 1045	и	и	CCONJ	_	_	_	_	_	words@dez1977f#@dez1977f#240.809#241.034
-1046	Данила	Данила	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@dez1977f#@dez1977f#241.034#241.259
+1046	Данило	Данило	PROPN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@dez1977f#@dez1977f#241.034#241.259
 1047	?	?	PUNCT	_	_	_	_	_	words@dez1977f#@dez1977f#241.259#241.484
 1048	/	/	PUNCT	_	_	_	_	_	words@dez1977f#@dez1977f#241.484#241.709
 1049	/	/	PUNCT	_	_	_	_	_	words@dez1977f#@dez1977f#241.709#241.938
