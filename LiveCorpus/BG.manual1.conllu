@@ -470,7 +470,7 @@
 470	каждый	каждый	DET	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@bbg1953m#@bbg1953m#344.611#344.876
 471	день	день	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@bbg1953m#@bbg1953m#344.876#345.141
 472	прохожу	проходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@bbg1953m#@bbg1953m#345.141#345.406
-473	раз	раз	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur 	_	_	_	words@bbg1953m#@bbg1953m#345.406#345.671
+473	раз	раз	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	_	_	_	words@bbg1953m#@bbg1953m#345.406#345.671
 474	сто	сто	NUM	_	Case=Acc	_	_	_	words@bbg1953m#@bbg1953m#345.671#345.936
 475	/	/	PUNCT	_	_	_	_	_	words@bbg1953m#@bbg1953m#345.936#346.201
 476	через	через	ADP	_	_	_	_	_	words@bbg1953m#@bbg1953m#346.201#346.466
@@ -629,14 +629,14 @@
 629	разговора	разговор	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	words@dez1977f#@dez1977f#41.834#42.133
 630	о	о	ADP	_	_	_	_	_	words@dez1977f#@dez1977f#42.133#42.432
 631	тех	тот	DET	_	Case=Loc|Number=Plur	_	_	_	words@dez1977f#@dez1977f#42.432#42.731
-632	эээ	эээ	INTJ	_		_	_	_	words@dez1977f#@dez1977f#42.731#43.03
+632	эээ	эээ	INTJ	_	_	_	_	_	words@dez1977f#@dez1977f#42.731#43.03
 633	произведениях	произведение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	_	_	_	words@dez1977f#@dez1977f#43.03#43.329
 634	/	/	PUNCT	_	_	_	_	_	words@dez1977f#@dez1977f#43.329#43.628
 635	книгах	книга	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	_	_	_	words@dez1977f#@dez1977f#43.628#43.927
 636	/	/	PUNCT	_	_	_	_	_	words@dez1977f#@dez1977f#43.927#44.226
 637	фильмах	фильм	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	_	_	_	words@dez1977f#@dez1977f#44.226#44.525
 638	/	/	PUNCT	_	_	_	_	_	words@dez1977f#@dez1977f#44.525#44.824
-639	эээ	эээ	INTJ	_		_	_	_	words@dez1977f#@dez1977f#44.824#45.123
+639	эээ	эээ	INTJ	_	_	_	_	_	words@dez1977f#@dez1977f#44.824#45.123
 640	/	/	PUNCT	_	_	_	_	_	words@dez1977f#@dez1977f#45.123#45.422
 641	что	что	PRON	_	Case=Nom	_	_	_	words@dez1977f#@dez1977f#45.422#45.721
 642	на	на	ADP	_	_	_	_	_	words@dez1977f#@dez1977f#45.721#46.02
@@ -1315,7 +1315,7 @@
 1315	через	через	ADP	_	_	_	_	_	words@dez1977f#@dez1977f#337.542#337.86
 1316	эту	этот	DET	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	words@dez1977f#@dez1977f#337.86#338.178
 1317	точку	точка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	words@dez1977f#@dez1977f#338.178#338.496
-1318	все	весь	DET	_	Case=Nom Number=Plur	_	_	_	words@dez1977f#@dez1977f#338.496#338.814
+1318	все	весь	DET	_	Case=Nom|Number=Plur	_	_	_	words@dez1977f#@dez1977f#338.496#338.814
 1319	/	/	PUNCT	_	_	_	_	_	words@dez1977f#@dez1977f#338.814#339.132
 1320	как	как	ADV	_	Degree=Pos	_	_	_	words@dez1977f#@dez1977f#339.132#339.45
 1321	бы	бы	PART	_	_	_	_	_	words@dez1977f#@dez1977f#339.45#339.768
