@@ -50,7 +50,7 @@
 50	тут	тут	ADV	_	Degree=Pos	_	_	_	words@imh1955f#@imh1955f#378.299#378.698–
 51	поняла	понять	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@imh1955f#@imh1955f#378.698#379.097–
 52	что	что	SCONJ	_	_	_	_	_	words@imh1955f#@imh1955f#379.097#379.496–
-53	больше	больше	ADV	_	Degree=Pos	_	_	_	words@imh1955f#@imh1955f#379.496#379.895–
+53	больше	больше	ADV	_	Degree=Cmp	_	_	_	words@imh1955f#@imh1955f#379.496#379.895–
 54	не	не	PART	_	_	_	_	_	words@imh1955f#@imh1955f#379.895#380.294–
 55	могу	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@imh1955f#@imh1955f#380.294#380.693–
 56	ммм	ммм	INTJ	_	_	_	_	_	words@imh1955f#@imh1955f#380.693#381.092–
@@ -240,7 +240,7 @@
 240	поняла	понять	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@imh1955f#@imh1955f#465.049#465.396–
 241	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	words@imh1955f#@imh1955f#465.396#465.743–
 242	просто	просто	PART	_	_	_	_	_	words@imh1955f#@imh1955f#465.743#466.09–
-243	больше	больше	ADV	_	Degree=Pos	_	_	_	words@imh1955f#@imh1955f#466.09#466.437–
+243	больше	больше	ADV	_	Degree=Cmp	_	_	_	words@imh1955f#@imh1955f#466.09#466.437–
 244	не	не	PART	_	_	_	_	_	words@imh1955f#@imh1955f#466.437#466.784–
 245	интерсно	интерсно	ADV	_	Degree=Pos	_	_	_	words@imh1955f#@imh1955f#466.784#467.131–
 246	то	то	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@imh1955f#@imh1955f#467.131#467.478–
