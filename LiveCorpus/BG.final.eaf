@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-12-01T19:12:48+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-12-01T21:43:48+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="file:///C:/Users/Alina/Desktop/BG/BG.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./BG.mp4"/>
         <MEDIA_DESCRIPTOR MEDIA_URL="file:///C:/Users/Alina/Desktop/BG/BG_audio.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./BG_audio.wav"/>
@@ -18708,12 +18708,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4736" ANNOTATION_REF="a105">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4737" ANNOTATION_REF="a106">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -18728,7 +18728,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4740" ANNOTATION_REF="a109">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -18743,7 +18743,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4743" ANNOTATION_REF="a112">
-                <ANNOTATION_VALUE>Case=Nom|Degree=gram|Number=Plur</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Case=Nom|Degree=Pos|Number=Plur</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -18808,7 +18808,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4756" ANNOTATION_REF="a125">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -18838,12 +18838,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4762" ANNOTATION_REF="a131">
-                <ANNOTATION_VALUE>Case=Loc|Degree=gram|Gender=Neut|Number=Sing</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Case=Loc|Degree=Pos|Gender=Neut|Number=Sing</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4763" ANNOTATION_REF="a132">
-                <ANNOTATION_VALUE>Case=Loc|Degree=gram|Gender=Neut|Number=Sing</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Case=Loc|Degree=Pos|Gender=Neut|Number=Sing</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -18913,7 +18913,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4777" ANNOTATION_REF="a146">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -18938,7 +18938,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4782" ANNOTATION_REF="a151">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -18948,7 +18948,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4784" ANNOTATION_REF="a153">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -18993,7 +18993,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4793" ANNOTATION_REF="a162">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -19033,7 +19033,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4801" ANNOTATION_REF="a170">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -19093,7 +19093,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4813" ANNOTATION_REF="a182">
-                <ANNOTATION_VALUE>Degree=gram|Gender=Neut|Number=Sing|Variant=Short</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos|Gender=Neut|Number=Sing|Variant=Short</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -19113,7 +19113,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4817" ANNOTATION_REF="a186">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -19133,7 +19133,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4821" ANNOTATION_REF="a190">
-                <ANNOTATION_VALUE>Degree=gram|Gender=Neut|Number=Sing|Variant=Short</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos|Gender=Neut|Number=Sing|Variant=Short</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -19168,17 +19168,17 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4828" ANNOTATION_REF="a197">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4829" ANNOTATION_REF="a198">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4830" ANNOTATION_REF="a199">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -19198,7 +19198,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4834" ANNOTATION_REF="a203">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -19223,7 +19223,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4839" ANNOTATION_REF="a208">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -19253,7 +19253,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4845" ANNOTATION_REF="a214">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -19313,7 +19313,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4857" ANNOTATION_REF="a226">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -19323,7 +19323,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4859" ANNOTATION_REF="a228">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -19333,7 +19333,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4861" ANNOTATION_REF="a230">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -19378,7 +19378,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4870" ANNOTATION_REF="a239">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -19393,7 +19393,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4873" ANNOTATION_REF="a242">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -19433,7 +19433,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4881" ANNOTATION_REF="a250">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -19443,7 +19443,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4883" ANNOTATION_REF="a252">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -19523,17 +19523,17 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4899" ANNOTATION_REF="a268">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4900" ANNOTATION_REF="a269">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4901" ANNOTATION_REF="a270">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -19568,7 +19568,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4908" ANNOTATION_REF="a277">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -19588,7 +19588,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4912" ANNOTATION_REF="a281">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -19643,7 +19643,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4923" ANNOTATION_REF="a292">
-                <ANNOTATION_VALUE>Case=Gen|Degree=gram|Gender=Fem|Number=Sing</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Case=Gen|Degree=Pos|Gender=Fem|Number=Sing</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -19688,7 +19688,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4932" ANNOTATION_REF="a301">
-                <ANNOTATION_VALUE>Case=Loc|Degree=gram|Gender=Neut|Number=Sing</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Case=Loc|Degree=Pos|Gender=Neut|Number=Sing</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -19743,7 +19743,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4943" ANNOTATION_REF="a312">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -19838,7 +19838,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4962" ANNOTATION_REF="a331">
-                <ANNOTATION_VALUE>Case=Nom|Degree=gram|Gender=Neut|Number=Sing</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Case=Nom|Degree=Pos|Gender=Neut|Number=Sing</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -19873,7 +19873,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4969" ANNOTATION_REF="a338">
-                <ANNOTATION_VALUE>Case=Nom|Degree=gram|Gender=Neut|Number=Sing</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Case=Nom|Degree=Pos|Gender=Neut|Number=Sing</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -19883,7 +19883,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4971" ANNOTATION_REF="a340">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -19893,7 +19893,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4973" ANNOTATION_REF="a342">
-                <ANNOTATION_VALUE>Degree=gram|Gender=Neut|Number=Sing|Variant=Short</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos|Gender=Neut|Number=Sing|Variant=Short</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -19908,7 +19908,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4976" ANNOTATION_REF="a345">
-                <ANNOTATION_VALUE>Degree=gram|Gender=Neut|Number=Sing|Variant=Short</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos|Gender=Neut|Number=Sing|Variant=Short</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -19918,7 +19918,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4978" ANNOTATION_REF="a347">
-                <ANNOTATION_VALUE>Degree=gram|Gender=Neut|Number=Sing|Variant=Short</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos|Gender=Neut|Number=Sing|Variant=Short</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -19933,7 +19933,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4981" ANNOTATION_REF="a350">
-                <ANNOTATION_VALUE>Degree=gram|Gender=Neut|Number=Sing|Variant=Short</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos|Gender=Neut|Number=Sing|Variant=Short</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -19988,12 +19988,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4992" ANNOTATION_REF="a361">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4993" ANNOTATION_REF="a362">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -20008,7 +20008,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4996" ANNOTATION_REF="a365">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -20023,7 +20023,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4999" ANNOTATION_REF="a368">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -20058,7 +20058,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5006" ANNOTATION_REF="a375">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -20083,7 +20083,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5011" ANNOTATION_REF="a380">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -20123,7 +20123,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5019" ANNOTATION_REF="a388">
-                <ANNOTATION_VALUE>Case=Nom|Degree=gram|Gender=Masc|Number=Sing</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Case=Nom|Degree=Pos|Gender=Masc|Number=Sing</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -20218,7 +20218,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5038" ANNOTATION_REF="a407">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -20313,7 +20313,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5057" ANNOTATION_REF="a425">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -20348,12 +20348,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5064" ANNOTATION_REF="a432">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5065" ANNOTATION_REF="a433">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -20363,7 +20363,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5067" ANNOTATION_REF="a435">
-                <ANNOTATION_VALUE>Degree=gram|Number=Plur|Variant=Short</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos|Number=Plur|Variant=Short</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -20398,7 +20398,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5074" ANNOTATION_REF="a442">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -20433,7 +20433,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5081" ANNOTATION_REF="a449">
-                <ANNOTATION_VALUE>Case=Nom|Degree=gram|Number=Plur</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Case=Nom|Degree=Pos|Number=Plur</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -20463,7 +20463,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5087" ANNOTATION_REF="a455">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -20543,7 +20543,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5103" ANNOTATION_REF="a471">
-                <ANNOTATION_VALUE>Case=Nom|Degree=gram|Number=Plur</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Case=Nom|Degree=Pos|Number=Plur</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -20663,7 +20663,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5127" ANNOTATION_REF="a495">
-                <ANNOTATION_VALUE>Degree=gram|Gender=Neut|Number=Sing|Variant=Short</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos|Gender=Neut|Number=Sing|Variant=Short</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -20798,7 +20798,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5154" ANNOTATION_REF="a522">
-                <ANNOTATION_VALUE>Animacy=Inan|Case=Acc|Degree=gram|Number=Plur</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -20833,7 +20833,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5161" ANNOTATION_REF="a529">
-                <ANNOTATION_VALUE>Case=Acc|Degree=gram|Gender=Fem|Number=Sing</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Case=Acc|Degree=Pos|Gender=Fem|Number=Sing</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -20893,7 +20893,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5173" ANNOTATION_REF="a541">
-                <ANNOTATION_VALUE>Degree=gram|Gender=Neut|Number=Sing|Variant=Short</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos|Gender=Neut|Number=Sing|Variant=Short</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -20908,7 +20908,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5176" ANNOTATION_REF="a544">
-                <ANNOTATION_VALUE>Case=Acc|Degree=gram|Gender=Fem|Number=Sing</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Case=Acc|Degree=Pos|Gender=Fem|Number=Sing</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -21063,12 +21063,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5207" ANNOTATION_REF="a575">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5208" ANNOTATION_REF="a576">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -21128,7 +21128,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5220" ANNOTATION_REF="a588">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -21143,7 +21143,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5223" ANNOTATION_REF="a591">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -21218,7 +21218,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5238" ANNOTATION_REF="a606">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -21298,7 +21298,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5254" ANNOTATION_REF="a622">
-                <ANNOTATION_VALUE>Case=Nom|Degree=gram|Gender=Neut|Number=Sing</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Case=Nom|Degree=Pos|Gender=Neut|Number=Sing</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -21323,7 +21323,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5259" ANNOTATION_REF="a627">
-                <ANNOTATION_VALUE>Case=Nom|Degree=gram|Number=Plur</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Case=Nom|Degree=Pos|Number=Plur</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -21388,7 +21388,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5272" ANNOTATION_REF="a640">
-                <ANNOTATION_VALUE>Degree=gram|Gender=Neut|Number=Sing|Variant=Short</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos|Gender=Neut|Number=Sing|Variant=Short</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -21438,7 +21438,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5282" ANNOTATION_REF="a650">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -21553,7 +21553,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5305" ANNOTATION_REF="a673">
-                <ANNOTATION_VALUE>Case=Nom|Degree=gram|Number=Plur</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Case=Nom|Degree=Pos|Number=Plur</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -21568,7 +21568,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5308" ANNOTATION_REF="a676">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -21583,7 +21583,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5311" ANNOTATION_REF="a679">
-                <ANNOTATION_VALUE>Case=Acc|Degree=gram|Gender=Fem|Number=Sing</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Case=Acc|Degree=Pos|Gender=Fem|Number=Sing</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -21643,12 +21643,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5323" ANNOTATION_REF="a691">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5324" ANNOTATION_REF="a692">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -21668,7 +21668,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5328" ANNOTATION_REF="a696">
-                <ANNOTATION_VALUE>Case=Nom|Degree=gram|Gender=Neut|Number=Sing</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Case=Nom|Degree=Pos|Gender=Neut|Number=Sing</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -21723,12 +21723,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5339" ANNOTATION_REF="a707">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5340" ANNOTATION_REF="a708">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -21763,7 +21763,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5347" ANNOTATION_REF="a715">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -21785,7 +21785,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5351" ANNOTATION_REF="a719">
-                <ANNOTATION_VALUE>Case=Loc|Degree=gram|Gender=Fem|Number=Sing</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Case=Loc|Degree=Pos|Gender=Fem|Number=Sing</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -21905,7 +21905,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5375" ANNOTATION_REF="a743">
-                <ANNOTATION_VALUE>Case=Ins|Degree=gram|Gender=Masc|Number=Sing</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Case=Ins|Degree=Pos|Gender=Masc|Number=Sing</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -22165,12 +22165,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5425" ANNOTATION_REF="a793">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5426" ANNOTATION_REF="a794">
-                <ANNOTATION_VALUE>Degree=gram|Gender=Neut|Number=Sing|Variant=Short</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos|Gender=Neut|Number=Sing|Variant=Short</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -22185,7 +22185,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5429" ANNOTATION_REF="a797">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -22195,7 +22195,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5431" ANNOTATION_REF="a799">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -22340,7 +22340,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5460" ANNOTATION_REF="a828">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -22365,7 +22365,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5465" ANNOTATION_REF="a833">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -22400,7 +22400,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5472" ANNOTATION_REF="a840">
-                <ANNOTATION_VALUE>Case=Dat|Degree=gram|Gender=Fem|Number=Sing</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Case=Dat|Degree=Pos|Gender=Fem|Number=Sing</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -22415,7 +22415,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5475" ANNOTATION_REF="a843">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -22595,7 +22595,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5511" ANNOTATION_REF="a879">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -22620,7 +22620,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5516" ANNOTATION_REF="a884">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -22815,7 +22815,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5555" ANNOTATION_REF="a923">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -22825,7 +22825,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5557" ANNOTATION_REF="a925">
-                <ANNOTATION_VALUE>Degree=gram|Number=Plur|Variant=Short</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos|Number=Plur|Variant=Short</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -22950,7 +22950,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5582" ANNOTATION_REF="a950">
-                <ANNOTATION_VALUE>Case=Nom|Degree=gram|Gender=Fem|Number=Sing</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Case=Nom|Degree=Pos|Gender=Fem|Number=Sing</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -23045,12 +23045,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5601" ANNOTATION_REF="a969">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5602" ANNOTATION_REF="a970">
-                <ANNOTATION_VALUE>Degree=gram|Gender=Neut|Number=Sing|Variant=Short</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos|Gender=Neut|Number=Sing|Variant=Short</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -23070,7 +23070,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5606" ANNOTATION_REF="a974">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -23120,7 +23120,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5616" ANNOTATION_REF="a984">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -23130,7 +23130,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5618" ANNOTATION_REF="a986">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -23160,12 +23160,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5624" ANNOTATION_REF="a992">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5625" ANNOTATION_REF="a993">
-                <ANNOTATION_VALUE>Degree=gram|Gender=Neut|Number=Sing|Variant=Short</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos|Gender=Neut|Number=Sing|Variant=Short</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -23185,7 +23185,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5629" ANNOTATION_REF="a997">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -23205,7 +23205,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5633" ANNOTATION_REF="a1001">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -23280,7 +23280,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5648" ANNOTATION_REF="a1016">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -23355,7 +23355,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5663" ANNOTATION_REF="a1031">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -23370,7 +23370,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5666" ANNOTATION_REF="a1034">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -23385,7 +23385,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5669" ANNOTATION_REF="a1037">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -23565,12 +23565,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5705" ANNOTATION_REF="a1072">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5706" ANNOTATION_REF="a1073">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -23715,7 +23715,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5735" ANNOTATION_REF="a1102">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -23725,7 +23725,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5737" ANNOTATION_REF="a1104">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -23760,7 +23760,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5744" ANNOTATION_REF="a1111">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -23790,7 +23790,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5750" ANNOTATION_REF="a1117">
-                <ANNOTATION_VALUE>Case=Nom|Degree=gram|Number=Plur</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Case=Nom|Degree=Pos|Number=Plur</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -23970,7 +23970,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5786" ANNOTATION_REF="a1153">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -23980,7 +23980,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5788" ANNOTATION_REF="a1155">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -24060,7 +24060,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5804" ANNOTATION_REF="a1171">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -24080,7 +24080,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5808" ANNOTATION_REF="a1175">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -24105,7 +24105,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5813" ANNOTATION_REF="a1180">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -24145,7 +24145,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5821" ANNOTATION_REF="a1188">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -24180,7 +24180,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5828" ANNOTATION_REF="a1195">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -24225,7 +24225,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5837" ANNOTATION_REF="a1204">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -24250,7 +24250,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5842" ANNOTATION_REF="a1209">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -24300,7 +24300,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5852" ANNOTATION_REF="a1219">
-                <ANNOTATION_VALUE>Case=Loc|Degree=gram|Gender=Neut|Number=Sing</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Case=Loc|Degree=Pos|Gender=Neut|Number=Sing</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -24340,12 +24340,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5860" ANNOTATION_REF="a1227">
-                <ANNOTATION_VALUE>Degree=gram|Gender=Neut|Number=Sing|Variant=Short</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos|Gender=Neut|Number=Sing|Variant=Short</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5861" ANNOTATION_REF="a1228">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -24405,7 +24405,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5873" ANNOTATION_REF="a1240">
-                <ANNOTATION_VALUE>Degree=gram|Gender=Neut|Number=Sing|Variant=Short</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos|Gender=Neut|Number=Sing|Variant=Short</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -24435,7 +24435,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5879" ANNOTATION_REF="a1246">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -24540,7 +24540,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5898" ANNOTATION_REF="a1265">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -24555,7 +24555,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5901" ANNOTATION_REF="a1268">
-                <ANNOTATION_VALUE>Case=Nom|Degree=gram|Number=Plur</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Case=Nom|Degree=Pos|Number=Plur</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -24590,12 +24590,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5908" ANNOTATION_REF="a1275">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5909" ANNOTATION_REF="a1276">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -24605,7 +24605,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5911" ANNOTATION_REF="a1278">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -24670,7 +24670,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5924" ANNOTATION_REF="a1291">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -24705,12 +24705,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5931" ANNOTATION_REF="a1298">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5932" ANNOTATION_REF="a1299">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -24750,7 +24750,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5940" ANNOTATION_REF="a1307">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -24870,7 +24870,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5964" ANNOTATION_REF="a1331">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -25100,7 +25100,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6010" ANNOTATION_REF="a1377">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -25175,7 +25175,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6025" ANNOTATION_REF="a1391">
-                <ANNOTATION_VALUE>Case=Gen|Degree=gram|Gender=Fem|Number=Sing</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Case=Gen|Degree=Pos|Gender=Fem|Number=Sing</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -25200,7 +25200,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6030" ANNOTATION_REF="a1396">
-                <ANNOTATION_VALUE>Animacy=Inan|Case=Acc|Degree=gram|Gender=Masc|Number=Sing</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -25235,7 +25235,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6037" ANNOTATION_REF="a1403">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -25285,7 +25285,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6047" ANNOTATION_REF="a1413">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -25320,7 +25320,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6054" ANNOTATION_REF="a1420">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -25415,7 +25415,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6073" ANNOTATION_REF="a1439">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -25500,7 +25500,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6090" ANNOTATION_REF="a1456">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -25555,7 +25555,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6101" ANNOTATION_REF="a1467">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -25595,7 +25595,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6109" ANNOTATION_REF="a1475">
-                <ANNOTATION_VALUE>Case=Nom|Degree=gram|Gender=Masc|Number=Sing</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Case=Nom|Degree=Pos|Gender=Masc|Number=Sing</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -25650,7 +25650,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6120" ANNOTATION_REF="a1486">
-                <ANNOTATION_VALUE>Case=Ins|Degree=gram|Gender=Masc|Number=Sing</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Case=Ins|Degree=Pos|Gender=Masc|Number=Sing</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -25770,7 +25770,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6144" ANNOTATION_REF="a1510">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -25780,12 +25780,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6146" ANNOTATION_REF="a1512">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6147" ANNOTATION_REF="a1513">
-                <ANNOTATION_VALUE>Case=Nom|Degree=gram|Gender=Fem|Number=Sing</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Case=Nom|Degree=Pos|Gender=Fem|Number=Sing</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -25795,22 +25795,22 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6149" ANNOTATION_REF="a1515">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6150" ANNOTATION_REF="a1516">
-                <ANNOTATION_VALUE>Case=Nom|Degree=gram|Gender=Fem|Number=Sing</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Case=Nom|Degree=Pos|Gender=Fem|Number=Sing</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6151" ANNOTATION_REF="a1517">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6152" ANNOTATION_REF="a1518">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -25845,7 +25845,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6159" ANNOTATION_REF="a1525">
-                <ANNOTATION_VALUE>Case=Nom|Degree=gram|Gender=Fem|Number=Sing</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Case=Nom|Degree=Pos|Gender=Fem|Number=Sing</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -25860,7 +25860,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6162" ANNOTATION_REF="a1528">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -25910,7 +25910,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6172" ANNOTATION_REF="a1538">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -26060,7 +26060,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6202" ANNOTATION_REF="a1568">
-                <ANNOTATION_VALUE>Degree=gram|Gender=Neut|Number=Sing|Variant=Short</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos|Gender=Neut|Number=Sing|Variant=Short</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -26085,7 +26085,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6207" ANNOTATION_REF="a1573">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -26130,7 +26130,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6216" ANNOTATION_REF="a1582">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -26155,7 +26155,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6221" ANNOTATION_REF="a1587">
-                <ANNOTATION_VALUE>Case=Nom|Degree=gram|Gender=Masc|Number=Sing</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Case=Nom|Degree=Pos|Gender=Masc|Number=Sing</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -26250,7 +26250,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6240" ANNOTATION_REF="a1606">
-                <ANNOTATION_VALUE>Degree=gram</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Degree=Pos</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -26280,7 +26280,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6246" ANNOTATION_REF="a1612">
-                <ANNOTATION_VALUE>Case=Dat|Degree=gram|Gender=Fem|Number=Sing</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Case=Dat|Degree=Pos|Gender=Fem|Number=Sing</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -26290,7 +26290,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6248" ANNOTATION_REF="a1614">
-                <ANNOTATION_VALUE>Case=Acc|Degree=gram|Gender=Fem|Number=Sing</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Case=Acc|Degree=Pos|Gender=Fem|Number=Sing</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
